@@ -8,9 +8,8 @@ This boilerplate features a simple flask app which renders an HTML page. Then Re
 
 
 ### setup
+- install serverless cli
 - ```npm install```
-- ```serverless plugin install --name serverless-python-requirements```
-- ```serverless plugin install --name serverless-wsgi```
 - ```npm run build```
 
 ### how to deploy to AWS
